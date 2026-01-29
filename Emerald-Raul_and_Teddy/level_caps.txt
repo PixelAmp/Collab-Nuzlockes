@@ -1,0 +1,18 @@
+Pokémon Emerald
+Gym 1: Lv 15
+Gym 2: Lv 19
+Gym 3: Lv 24
+Gym 4: Lv 29
+Gym 5: Lv 31
+Gym 6: Lv 33
+Gym 7: Lv 42
+Gym 8: Lv 46
+
+Elite Four 1: Lv 49
+Elite Four 2: Lv 51
+Elite Four 3: Lv 53
+Elite Four 4: Lv 55
+
+Champion: Lv 58
+
+Meteor Falls: Lv 78
