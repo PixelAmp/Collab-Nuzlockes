@@ -1,0 +1,3 @@
+https://ashenfactory.github.io/nuzlocke-tracker/
+
+Upload the json file rse.2026-02-03.json to this webiste to track our encounters!
